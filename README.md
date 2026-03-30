@@ -1,7 +1,7 @@
 # 🔬 Dissipative Causal Neural Networks (DCNN)
 ### *A Study in Dynamic Weight Reconfiguration via Information Entropy*
 
-> **Quick Link:** [Open in Colab](https://colab.research.google.com/drive/1Y6tOBYJrHjrwZ954SYWN5MEHUA1h90eU)
+> **Quick Link:** [Open in Colab]([https://colab.research.google.com/drive/1Y6tOBYJrHjrwZ954SYWN5MEHUA1h90eU](https://colab.research.google.com/drive/1Y6tOBYJrHjrwZ954SYWN5MEHUA1h90eU?usp=sharing))
 
 ---
 
