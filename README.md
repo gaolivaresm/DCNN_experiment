@@ -51,3 +51,28 @@ What is traditionally dismissed as "hallucination" is revealed here as a **Therm
 1.  **Clone the repo:** `git clone https://github.com/gaolivaresm/DCNN_experiment.git`
 2.  **Calibrate $\beta$:** Adjust the coupling factor to find the "Edge of Chaos" (typically around 0.3).
 3.  **Observe the Laplacian:** Watch how the weights diffuse semantic energy through SVD decomposition.
+
+
+---
+
+## 📚 References & Theoretical Foundations
+
+The DCNN experiment is grounded in the intersection of 20th-century process philosophy and non-equilibrium thermodynamics applied to information theory.
+
+### 1. Alfred North Whitehead: Process and Reality (1929)
+* **Concept:** *Concrescence* and *Perishing*. 
+* **Application:** In DCNN, every token generation is a "concrescence" where the model's past (weights) must "perish" to allow the emergence of a new "actual entity" (the new state of the network).
+* 
+
+### 2. Ilya Prigogine: Order Out of Chaos (1984)
+* **Concept:** *Dissipative Structures*.
+* **Application:** We treat the Transformer as a system far from equilibrium. The continuous flux of "Novelty" acts as the energy pump that maintains the model's semantic structure while allowing for sudden bifurcations (Phase Transitions).
+* 
+
+### 3. Information Theory & Graph Laplacians
+* **Concept:** *Spectral Diffusion on Semantic Graphs*.
+* **Application:** Using the Attention Matrix to derive a Graph Laplacian ($L = D - A$) allows us to treat the weight manifold as a physical space where information dissipates according to the connectivity of the concepts.
+
+### 4. Relevant AI Research
+* **Static vs. Dynamic Weights:** Belcak & Wattenhofer, *Iterative Refinement of LLM Outputs*.
+* **Mechanistic Interpretability:** Olsson et al., *In-context Learning and Induction Heads* (Anthropic).
