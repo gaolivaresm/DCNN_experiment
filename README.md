@@ -2,7 +2,7 @@
 ### *A Study in Dynamic Weight Reconfiguration via Information Entropy*
 
 > **🚀 Quick Start:** [Open in Google Colab](https://colab.research.google.com/drive/1Y6tOBYJrHjrwZ954SYWN5MEHUA1h90eU?usp=sharing)  
-> **📄 Paper Draft:** *[Link to be added]* | **🐛 Report Issue:** *[GitHub Issues]*
+
 
 ---
 
